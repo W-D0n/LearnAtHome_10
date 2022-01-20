@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2021-10-13T10:12:03.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="eYSqbiJTgWckJ2FVtt6K" version="15.5.1" type="github">
+  <diagram id="R559KtakvrUXVM5r8ZAt" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yKJa2z4DnLtkmu-q_PTR-1" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Page Gestion des Tâches&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="264" y="70" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yKJa2z4DnLtkmu-q_PTR-3" value="Utilisateur Professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="120" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-1" value="Utilisateur étudiant ou professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="51" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n-Xo5AlG5NYN0AwT3XG5-2" target="n-Xo5AlG5NYN0AwT3XG5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="530" as="sourcePoint" />
+            <mxPoint x="330" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-4" value="Je clique sur le bouton &quot;Ajouter une tâche&quot; en tant qu&#39;élève, ou &quot;Ajouter une tâche personnelle&quot; en tant que professeur.&lt;br&gt;Je remplis les champs &quot;titre&quot; et &quot;description&quot; avant de cliquer sur &quot;Ajout tâche&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.465;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n-Xo5AlG5NYN0AwT3XG5-7" target="n-Xo5AlG5NYN0AwT3XG5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="580" as="sourcePoint" />
+            <mxPoint x="120" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-7" value="Je veux supprimer une tâche personnelle de ma liste de tâches à faire ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="27" y="580" width="176" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="n-Xo5AlG5NYN0AwT3XG5-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="206" y="629.5" as="sourcePoint" />
+            <mxPoint x="306" y="629.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-9" value="Je clique sur la croix rouge sur la ligne correspondant à la tâche que je souhaite supprimer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="690" width="170" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;" edge="1" parent="1" source="n-Xo5AlG5NYN0AwT3XG5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="117.5" y="390" as="sourcePoint" />
+            <mxPoint x="117.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="340" as="sourcePoint" />
+            <mxPoint x="490" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-2" value="Je veux ajouter une tâche personnelle à ma liste de tâches à faire ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="320" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="n-Xo5AlG5NYN0AwT3XG5-20" source="n-Xo5AlG5NYN0AwT3XG5-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.95" y="410" as="sourcePoint" />
+            <mxPoint x="767.95" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-20" value="Je clique sur le bouton &quot;Ajouter tâche à un élève&quot; , je remplis les champs &quot;titre&quot; et &quot;description&quot;, je sélectionne l&#39;étudiant dans la liste déroulante, et je clique sur &quot;Ajout tâche&quot;.&lt;br&gt;La tâche doit s&#39;ajouter dans la liste des tâches de l&#39;étudiant concerné." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="450" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.465;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="581" as="sourcePoint" />
+            <mxPoint x="480" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="n-Xo5AlG5NYN0AwT3XG5-23" source="n-Xo5AlG5NYN0AwT3XG5-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="643.95" y="664.5" as="sourcePoint" />
+            <mxPoint x="743.95" y="664.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-23" value="Je clique sur la croix rouge sur la ligne correspondant à la tâche que je souhaite supprimer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="690" width="170" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-24" value="Je veux ajouter une tâche à un étudiant ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Xo5AlG5NYN0AwT3XG5-27" value="Je veux supprimer une tâche précedemment ajoutée à un étudiant ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="180" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

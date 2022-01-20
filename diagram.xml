@@ -1,0 +1,712 @@
+<mxfile host="app.diagrams.net" modified="2021-10-21T16:35:14.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="3YYs882s8cBzn2HtaF3K" version="15.5.5" type="github" pages="5">
+  <diagram id="1AHfdOlfDi8fP-BxkIWJ" name="Connexion">
+    <mxGraphModel dx="914" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AfSO4xSQXq2QMHK5xktK-1" target="AfSO4xSQXq2QMHK5xktK-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-1" value="Utilisateur non connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Page connexion&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="30" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AfSO4xSQXq2QMHK5xktK-8" target="nPNG_rHBDoMxyIkJBhrF-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AfSO4xSQXq2QMHK5xktK-8" target="AfSO4xSQXq2QMHK5xktK-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-8" value="J&#39;ai un compte existant sur le site Learn@Home" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-12" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-13" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="335" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AfSO4xSQXq2QMHK5xktK-15" target="nPNG_rHBDoMxyIkJBhrF-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-15" value="Je connais mon adresse e-mail ?" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-19" value="&lt;span&gt;&amp;nbsp;Je suis redirigé vers la page de création de compte&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="250" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-20" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AfSO4xSQXq2QMHK5xktK-15" target="nPNG_rHBDoMxyIkJBhrF-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-28" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Je suis connecté et me retrouve sur la page Dashboard&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="770" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfSO4xSQXq2QMHK5xktK-29" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Je &lt;br&gt;clique sur &lt;br&gt;créer un &lt;br&gt;compte&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="225" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nPNG_rHBDoMxyIkJBhrF-2" target="AfSO4xSQXq2QMHK5xktK-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-4" value="Je&amp;nbsp;&lt;br&gt;retrouve&lt;br&gt;mon adresse mail&lt;br&gt;par mes propres&lt;br&gt;moyens" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="370" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-5" value="Je connais mon mot de passe ?" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="nPNG_rHBDoMxyIkJBhrF-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="610" as="sourcePoint" />
+            <mxPoint x="380" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-7" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="590" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-8" value="Je&amp;nbsp;&lt;br&gt;clique sur&lt;br&gt;mot de passe&lt;br&gt;oublié&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="393.75" y="560" width="102.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-9" value="&lt;span&gt;&amp;nbsp;Je suis redirigé vers la page de réinitialisation de mot de passe&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="581.25" y="580" width="128.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="nPNG_rHBDoMxyIkJBhrF-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496.25" y="610" as="sourcePoint" />
+            <mxPoint x="431.25" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="740" as="targetPoint" />
+            <mxPoint x="210" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-12" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="690" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-13" value="Je&amp;nbsp;&lt;br&gt;saisis mon mail&lt;br&gt;et mon mot de passe, et clique sur le bouton&lt;br&gt;&quot;Se connecter&quot;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="740" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nPNG_rHBDoMxyIkJBhrF-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nPNG_rHBDoMxyIkJBhrF-13" target="AfSO4xSQXq2QMHK5xktK-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="840" as="sourcePoint" />
+            <mxPoint x="440" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="j6w2-9Dg_RpDE2ihRfwW" name="Dashboard">
+    <mxGraphModel dx="1123" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PnKaozi8Z08xy6RTYlxI-0" />
+        <mxCell id="PnKaozi8Z08xy6RTYlxI-1" parent="PnKaozi8Z08xy6RTYlxI-0" />
+        <mxCell id="y8yatMblQONvNVjH3qGP-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Page Dashboard&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="299" y="50" width="229" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-1" value="Utilisateur élève ou professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="388" y="120" width="51" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-2" value="Mon tableau de bord est affiché,&lt;br&gt;il affiche une section Messagerie, &lt;br&gt;qui affiche le nombre de nouveaux messages &lt;br&gt;si il y en a, une section To-do-list qui affiche &lt;br&gt;celle-ci, et une section Calendrier qui &lt;br&gt;affiche mes prochains rendez-vous &lt;br&gt;ou évènements" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="279" y="290" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="380" as="sourcePoint" />
+            <mxPoint x="414" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="460" as="sourcePoint" />
+            <mxPoint x="414" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-23" target="y8yatMblQONvNVjH3qGP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-6" value="J&#39;accède à la page Messagerie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="70" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-7" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="310" y="510" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-8" value="Je reste sur la page Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="600" y="667.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="640" as="sourcePoint" />
+            <mxPoint x="414" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-24" target="y8yatMblQONvNVjH3qGP-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="680" as="targetPoint" />
+            <mxPoint x="354" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-11" value="J&#39;accède à la page Gestionnaire des tâches" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="70" y="667.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-12" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="310" y="667.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="790" as="sourcePoint" />
+            <mxPoint x="414" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-25" target="y8yatMblQONvNVjH3qGP-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="830" as="targetPoint" />
+            <mxPoint x="354" y="830" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-15" value="J&#39;accède à la page Calendrier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="70" y="817.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-16" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="310" y="817.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-23" target="y8yatMblQONvNVjH3qGP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474.96000000000004" y="540" as="sourcePoint" />
+            <mxPoint x="440" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-24" target="y8yatMblQONvNVjH3qGP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="680" as="sourcePoint" />
+            <mxPoint x="600" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-25" target="y8yatMblQONvNVjH3qGP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="830" as="sourcePoint" />
+            <mxPoint x="600" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-20" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="488" y="760" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-21" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="488" y="585" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-22" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="509" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-23" value="&lt;span&gt;Je &lt;br&gt;clique sur la&lt;br&gt;&amp;nbsp;section Messagerie&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="353" y="477.5" width="121" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-24" value="&lt;span&gt;Je &lt;br&gt;clique sur la&lt;br&gt;&amp;nbsp;section toDoList&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="354" y="640" width="121" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-25" value="&lt;span&gt;Je &lt;br&gt;clique sur la&lt;br&gt;&amp;nbsp;section Calendrier&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="354" y="790" width="121" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-26" value="Utilisateur professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="363" y="960" width="51" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-27" value="Sur la section ToDoList se trouve un menu déroulant qui me permet de sélectionner d&#39;afficher mes tâches personnelles, ou les tâches confiées à des étudiants" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="50" y="1130" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375.05999999999995" y="1010" as="sourcePoint" />
+            <mxPoint x="190.05999999999995" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-29" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Je &lt;br&gt;clique sur &lt;br&gt;ce menu&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="130" y="1300" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" source="y8yatMblQONvNVjH3qGP-29" target="y8yatMblQONvNVjH3qGP-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194" y="1250" as="sourcePoint" />
+            <mxPoint x="279" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-31" value="Je veux voir mes tâches personnelles ?&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="130" y="1480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-32" value="Je veux voir les tâches confiées à un ou des élèves ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="130" y="1630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Je &lt;br&gt;clique sur &lt;br&gt;&quot;Étudiants&quot;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="368" y="1615" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-34" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Je &lt;br&gt;clique sur &lt;br&gt;&quot;tâches&lt;br&gt;personnelles&quot;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="368" y="1465" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188.82000000000016" y="1480" as="sourcePoint" />
+            <mxPoint x="188.82000000000016" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1630" as="sourcePoint" />
+            <mxPoint x="190" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-37" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1520" as="sourcePoint" />
+            <mxPoint x="373.75" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-38" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="255" y="1500" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-39" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1670" as="sourcePoint" />
+            <mxPoint x="373.75" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-40" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="255" y="1650" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-41" value="&lt;span&gt;Mes tâches personnelles s&#39;affichent dans la section prévue à cet effet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="573" y="1490" width="128.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" target="y8yatMblQONvNVjH3qGP-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488.0000000000002" y="1520" as="sourcePoint" />
+            <mxPoint x="423" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-43" value="&lt;span&gt;Les tâches ajoutées à mes étudiants s&#39;affichent dans la section prévue à cet effet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PnKaozi8Z08xy6RTYlxI-1">
+          <mxGeometry x="573" y="1640" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8yatMblQONvNVjH3qGP-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PnKaozi8Z08xy6RTYlxI-1" target="y8yatMblQONvNVjH3qGP-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488.0000000000002" y="1670" as="sourcePoint" />
+            <mxPoint x="423" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Biwm1QNn_HBPdIVdWdGT" name="Chat">
+    <mxGraphModel dx="1075" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-0" />
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-1" parent="eSBN6DE0sOfFwsc84Nuv-0" />
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-70" value="Utilisateur élève ou professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="470" y="80" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-90" target="eSBN6DE0sOfFwsc84Nuv-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-89" target="eSBN6DE0sOfFwsc84Nuv-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="130" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-73" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="235" y="330" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="514.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-75" value="Ma messagerie n&#39;affiche &lt;br&gt;donc pas de nouveau message. Je veux écrire un nouveau message&lt;br&gt;&amp;nbsp;à l&#39;un de mes contacts ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="70" y="470" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-76" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="180" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-77" value="Le nouveau message apparaît dans la section prévue à cet effet, en dessous de notre historique de conversation (si il y en a)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="560" y="310" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-78" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="280" y="490" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-81" target="eSBN6DE0sOfFwsc84Nuv-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="620" as="sourcePoint" />
+            <mxPoint x="310" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="659.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-81" value="Je vaux supprimer l&#39;un &lt;br&gt;de mes contacts?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="100" y="630" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-82" value="Je clique sur la croix rouge située dans la vignette correspondant à celui-ci dans la section gauche de la page regroupant la liste de mes contacts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="560" y="620" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-83" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="250" y="640" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="789.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-85" value="Je vaux ajouter un &lt;br&gt;nouveau contact?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="100" y="760" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-86" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-85" target="eSBN6DE0sOfFwsc84Nuv-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="730" as="sourcePoint" />
+            <mxPoint x="264.5799999999997" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-87" value="La liste des personnes inscrites apparaît, je sélectionne le contact de mon choix et clique sur &quot;ajouter&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="560" y="750" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-88" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="250" y="770" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-89" value="Ma messagerie s&#39;affiche.&lt;br&gt;Mes contacts sur la partie gauche,&lt;br&gt;la conversation du contact sélectionné sur la partie droite." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="70" y="100" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-90" value="&lt;span&gt;J&#39;ai de nouveaux messages&lt;/span&gt;&lt;br&gt;&lt;span&gt;non lus ?&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="115" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-91" value="Je&amp;nbsp;&lt;br&gt;clique sur&amp;nbsp;&lt;br&gt;le message non lu&lt;br&gt;en surbrillance&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="334" y="295" width="116" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-90" target="eSBN6DE0sOfFwsc84Nuv-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="420" as="sourcePoint" />
+            <mxPoint x="510" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-93" value="Je&lt;br&gt;clique sur&lt;br&gt;le contact désiré&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="335" y="462.5" width="115" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-91" target="eSBN6DE0sOfFwsc84Nuv-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="sourcePoint" />
+            <mxPoint x="544.5" y="349.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-95" value="Une conversation s&#39;ouvre dans la section prévue à cet effet. J&#39;écris mon message et clique sur le bouton &quot;envoyer&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="560" y="475" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-93" target="eSBN6DE0sOfFwsc84Nuv-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="540" as="sourcePoint" />
+            <mxPoint x="569.5" y="514.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-97" value="Je&lt;br&gt;clique sur&lt;br&gt;le contact désiré&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="334" y="607.5" width="115" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-98" value="Je&lt;br&gt;clique sur&lt;br&gt;le bouton &quot;ajouter&lt;br&gt;contact&quot;&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="334" y="737.5" width="115" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="525" as="sourcePoint" />
+            <mxPoint x="560" y="659.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-98" target="eSBN6DE0sOfFwsc84Nuv-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="760" as="sourcePoint" />
+            <mxPoint x="560" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="eSBN6DE0sOfFwsc84Nuv-1" source="eSBN6DE0sOfFwsc84Nuv-90" target="eSBN6DE0sOfFwsc84Nuv-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="290" as="sourcePoint" />
+            <mxPoint x="385" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBN6DE0sOfFwsc84Nuv-102" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Page Chat&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eSBN6DE0sOfFwsc84Nuv-1">
+          <mxGeometry x="309" y="20" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gtObFdu_9mSHAs4F6aZT" name="Calendrier">
+    <mxGraphModel dx="914" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="AmkcuZXnU8TDH_awtNTO-0" />
+        <mxCell id="AmkcuZXnU8TDH_awtNTO-1" parent="AmkcuZXnU8TDH_awtNTO-0" />
+        <mxCell id="NjeDImTHazQQSYCAhkqb-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Page Calendrier&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="319" y="60" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-1" value="Utilisateur élève ou professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="389" y="110" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-3" target="NjeDImTHazQQSYCAhkqb-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-3" value="Je suis sur la page Calendrier.&lt;br&gt;Un planning s&#39;affiche, jour par jour et &lt;br&gt;heure par heure. Mes rendez-vous&lt;br&gt;et/ou évènements déjà prévus s&#39;affichent&lt;br&gt;&amp;nbsp;sur le planning.&lt;br&gt;Je souhaite ajouter un évènement ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="20" y="270" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-1" target="NjeDImTHazQQSYCAhkqb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-5" value="&lt;span&gt;Une modale s&#39;ouvre, elle comporte&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;la date et heure choisie, un&lt;/span&gt;&lt;br&gt;&lt;span&gt;champ description, un bouton&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;supprimer&quot;, et un bouton&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;valider&quot;.&lt;br&gt;Je remplis le champ description&lt;br&gt;et clique sur &quot;valider&quot; une fois&lt;br&gt;que j&#39;ai fini de remplir le champ description&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="570" y="250" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-6" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="280" y="320" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-9" target="NjeDImTHazQQSYCAhkqb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="490" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-9" target="NjeDImTHazQQSYCAhkqb-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-9" value="Je souhaite supprimer un évènement déjà existant?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="55" y="490" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-10" value="Une modale s&#39;ouvre me permettant d&#39;accéder à la modification de celui-ci.&lt;br&gt;Je clique sur le bouton &quot;supprimer&quot;, l&#39;évènement disparaît de mon calendrier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="570" y="462.5" width="150" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-11" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="280" y="500" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-13" target="NjeDImTHazQQSYCAhkqb-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-13" value="Je souhaite modifier un évènement déjà existant?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="55" y="660" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-13" target="NjeDImTHazQQSYCAhkqb-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-15" value="Une modale s&#39;ouvre me permettant d&#39;accéder à la modification de celui-ci.&lt;br&gt;Je modifie ce que je désire dans le champ &quot;description&quot;, et clique sur le bouton &quot;valider&quot; pour enregistrer mes modifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="570" y="640" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-16" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="280" y="670" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-17" value="Je&lt;br&gt;clique sur&lt;br&gt;un créneau&lt;br&gt;libre" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="379" y="295" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-18" value="Je&lt;br&gt;clique sur un&lt;br&gt;rdv déjà créé&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="379" y="475" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-19" value="Je&lt;br&gt;clique sur un&lt;br&gt;rdv déjà créé&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="379" y="645" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-17" target="NjeDImTHazQQSYCAhkqb-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="680" as="sourcePoint" />
+            <mxPoint x="470" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-18" target="NjeDImTHazQQSYCAhkqb-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478.9999999999998" y="475" as="sourcePoint" />
+            <mxPoint x="570" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-19" target="NjeDImTHazQQSYCAhkqb-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498.9999999999998" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-23" value="Je souhaite consulter une semaine différente de celle affichée à l&#39;écran ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="55" y="830" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-23" target="NjeDImTHazQQSYCAhkqb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="800" as="sourcePoint" />
+            <mxPoint x="145" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-23" target="NjeDImTHazQQSYCAhkqb-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="860" as="sourcePoint" />
+            <mxPoint x="330" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-26" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="295" y="840" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-27" value="Je&lt;br&gt;clique une des &lt;br&gt;flèches correspondantes&lt;br&gt;&amp;nbsp;à droite ou à gauche dans l&#39;en tête de la section Calendrier&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="348.5" y="786.25" width="161" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-28" value="La date de la semaine se met à jour ainsi que le planning correspondant à cette semaine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AmkcuZXnU8TDH_awtNTO-1">
+          <mxGeometry x="600.5" y="830" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjeDImTHazQQSYCAhkqb-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AmkcuZXnU8TDH_awtNTO-1" source="NjeDImTHazQQSYCAhkqb-27" target="NjeDImTHazQQSYCAhkqb-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="880" as="sourcePoint" />
+            <mxPoint x="600.5" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xoV8ENVSTf7waCqWc7Qr" name="ToDoList">
+    <mxGraphModel dx="914" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dBMuuptp5Tb5qjiRUcax-0" />
+        <mxCell id="dBMuuptp5Tb5qjiRUcax-1" parent="dBMuuptp5Tb5qjiRUcax-0" />
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-0" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Page Gestion des Tâches&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="264" y="70" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-1" value="Utilisateur étudiant ou professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="195" y="451.78" width="51" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-7" target="RfjJohTM5tE8vwLAcwnf-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="851.78" as="sourcePoint" />
+            <mxPoint x="275" y="696.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-3" value="Une modale s&#39;ouvre et je remplis les champs &quot;titre&quot; et &quot;description&quot; avant de cliquer sur &quot;Ajout tâche&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="515" y="661.78" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-5" target="RfjJohTM5tE8vwLAcwnf-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="901.78" as="sourcePoint" />
+            <mxPoint x="185" y="761.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-5" value="Je veux modifier une tâche personnelle de ma liste de tâches à faire, ou en tant que professeur modifier une tâche précedemment ajoutée à l&#39;un de mes élèves ??" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="20" y="806.78" width="203" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-7" target="RfjJohTM5tE8vwLAcwnf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="122.5" y="711.78" as="sourcePoint" />
+            <mxPoint x="122.5" y="571.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-7" value="Je veux ajouter une tâche personnelle à ma liste de tâches à faire ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="38" y="641.78" width="167" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-8" value="Je&lt;br&gt;clique sur&amp;nbsp;&lt;br&gt;le bouton &quot;Ajouter&lt;br&gt;une tâche personnelle&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="285" y="621.78" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-8" target="RfjJohTM5tE8vwLAcwnf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="721.78" as="sourcePoint" />
+            <mxPoint x="512" y="721.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-5" target="RfjJohTM5tE8vwLAcwnf-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.038" y="875.78" as="sourcePoint" />
+            <mxPoint x="275" y="856.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-11" value="Une modale contenant les informations de ma tâche apparaît, je modifie ce que je désire et je clique sur &quot;Valider&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="525" y="819.28" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-12" value="Je&lt;br&gt;clique sur&amp;nbsp;la tâche correspondante&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="300" y="811.78" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-12" target="RfjJohTM5tE8vwLAcwnf-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="881.78" as="sourcePoint" />
+            <mxPoint x="512" y="881.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" target="RfjJohTM5tE8vwLAcwnf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="121.5" y="996.78" as="sourcePoint" />
+            <mxPoint x="121.5" y="941.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-19" target="RfjJohTM5tE8vwLAcwnf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="208" y="1046.78" as="sourcePoint" />
+            <mxPoint x="275" y="1046.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-16" value="Une modale apparaît me demandant si je souhaite bien supprimer la tâche. Je clique sur &quot;Valider&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="525" y="1036.78" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-17" value="Je&lt;br&gt;clique sur&amp;nbsp;&lt;br&gt;la croix rouge sur &lt;br&gt;la droite de la tâche correspondante&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="295" y="996.78" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-17" target="RfjJohTM5tE8vwLAcwnf-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="1071.78" as="sourcePoint" />
+            <mxPoint x="512" y="1071.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-19" value="Je veux supprimer une tâche personnelle de ma liste de tâches à faire, ou en tant que professeur supprimer une tâche précedemment ajoutée à l&#39;un de mes élèves ??" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="20" y="1006.78" width="203" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-20" value="Utilisateur Professeur connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="197" y="120" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-24" target="RfjJohTM5tE8vwLAcwnf-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="553.5699999999999" as="sourcePoint" />
+            <mxPoint x="277" y="398.56999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-22" value="Une modale s&#39;ouvre et je remplis les champs &quot;titre&quot; et &quot;description&quot;, sélectionne l&#39;élève désiré dans la liste déroulante, avant de cliquer sur &quot;Ajout tâche&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="537" y="324.99" width="220" height="103.57" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-24" target="RfjJohTM5tE8vwLAcwnf-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124.5" y="413.56999999999994" as="sourcePoint" />
+            <mxPoint x="276.5" y="209.9985714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-24" value="Je veux ajouter une tâche à faire à l&#39;un de mes élèves ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="40" y="343.56999999999994" width="167" height="66.43" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-25" value="Je&lt;br&gt;clique sur&amp;nbsp;&lt;br&gt;le bouton &quot;Ajouter&lt;br&gt;une tâche à un élève&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dBMuuptp5Tb5qjiRUcax-1">
+          <mxGeometry x="287" y="301.78" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RfjJohTM5tE8vwLAcwnf-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dBMuuptp5Tb5qjiRUcax-1" source="RfjJohTM5tE8vwLAcwnf-25" target="RfjJohTM5tE8vwLAcwnf-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437" y="423.56999999999994" as="sourcePoint" />
+            <mxPoint x="514" y="423.56999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
