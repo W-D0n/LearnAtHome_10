@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/P10_FullLogo.png?raw=true" alt="Sublime's custom image"/>
+  <img src="/img/P10_FullLogo.png" width="300px" alt="Logo image"/>
 </p>
 
 # Learn@Home - Projet 10 Openclassrooms (Frontend Developper).
