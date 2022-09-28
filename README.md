@@ -31,6 +31,7 @@ This project was made for learning a specific concept or tool. Therefore it migh
 If I had to push further this project, I would work on :
 1. Validate the proposal.
 2. Build frontend part.
+3. Translate documentation in English.
 
 ---
 [![wakatime](https://wakatime.com/badge/user/e9b04158-0482-414a-b06c-6cc1f928b1c7/project/7b01fad1-e713-4ce4-9b7e-2f6e52ec10c2.svg)](https://wakatime.com/badge/user/e9b04158-0482-414a-b06c-6cc1f928b1c7/project/7b01fad1-e713-4ce4-9b7e-2f6e52ec10c2)
